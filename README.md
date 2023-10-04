@@ -1,7 +1,17 @@
-# wai-translations
+# WAI Translations
 
 Future home of translations guidance and information on translated resources
 
-Related issues in other repo: https://github.com/w3c/wai-website/issues?q=is%3Aopen+is%3Aissue+label%3Atranslations
+> ✋ **IMPORTANT**
+>
+> We are actively updating this information to help you contribute to WAI translations. We might update some of it as we refine the process throughout October 2023.
 
-(old info: Temporary mock-up: https://w3c.github.io/wai-translation-playground/people-use-web/ )
+## :pencil: Translating WAI Resources
+
+Thank you for your interest in translating resources from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
+
+Please see key information on translating WAI resources in: [Translating WAI Resources](https://www.w3.org/WAI/about/translating/)
+
+## :rocket:	Project dashboard
+
+We use a [GitHub project](https://github.com/orgs/w3c/projects/46) to track translations progress.
