@@ -1,11 +1,5 @@
 # WAI Translations
 
-Future home of translations guidance and information on translated resources
-
-> ✋ **IMPORTANT**
->
-> We are actively updating this information to help you contribute to WAI translations. We might update some of it as we refine the process throughout October 2023.
-
 ## :pencil: Translating WAI Resources
 
 Thank you for your interest in translating resources from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
