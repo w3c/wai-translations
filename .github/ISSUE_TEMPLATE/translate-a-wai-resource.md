@@ -3,7 +3,7 @@ name: Translate a WAI Resource
 about: Volunteer to create the initial translation of a WAI accessibility resource
   in your language
 title: "[Language] [Resource Name]"
-labels: initial-translation, triage
+labels: initial-translation
 assignees: ''
 
 ---
