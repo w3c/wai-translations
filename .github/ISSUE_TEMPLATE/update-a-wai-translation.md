@@ -2,7 +2,7 @@
 name: Update a WAI Translation
 about: Volunteer to update a translation on WAI website
 title: "[Language] [Resource Name]"
-labels: translation-update, triage
+labels: translation-update
 assignees: ''
 
 ---
