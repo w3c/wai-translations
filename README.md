@@ -20,11 +20,11 @@ See list of [All WAI/Web Accessibility Translations](https://www.w3.org/WAI/tran
 * Consider different dialects. Where possible, use words and phrases that will be best understood across different areas.
 
 ### List of glossaries
-* **[General](https://github.com/w3c/translation-glossaries/blob/master/general.md) - applies to multiple languages**
-* [Bahasa Indonesia (Indonesian)](https://github.com/w3c/translation-glossaries/blob/main/Bahasa%20Indonesia.md)
-* [Deutsch (German)](https://github.com/w3c/translation-glossaries/blob/master/Deutsch-German.md)
-* [Español-castellano (Spanish)](https://github.com/w3c/translation-glossaries/blob/master/Castellano-Spanish.md)
-* [Français (French)](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md)
+* **[General](https://github.com/w3c/wai-translations/blob/main/glossaries/general.md) - applies to multiple languages**
+* [Bahasa Indonesia (Indonesian)](https://github.com/w3c/wai-translations/blob/main/glossaries/Bahasa%20Indonesia.md)
+* [Deutsch (German)](https://github.com/w3c/wai-translations/blob/main/glossaries/Deutsch-German.md)
+* [Español-castellano (Spanish)](https://github.com/w3c/wai-translations/blob/main/glossaries/Castellano-Spanish.md)
+* [Français (French)](https://github.com/w3c/wai-translations/blob/main/glossaries/fran%C3%A7ais-French.md)
 
 ---
 
