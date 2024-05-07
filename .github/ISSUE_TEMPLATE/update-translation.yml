@@ -1,0 +1,39 @@
+name: Update translation
+description: Volunteer to update a W3C WAI translation in your language.
+title: "[Lang] Resource Name"
+labels: ["initial-translation"]
+projects: ["w3c/46"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for volunteering to update a WAI resource translation!
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: What is the URL of the translation you intent to update?
+      placeholder: ex. https://www.w3.org/WAI/tips/designing/fr
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Instructions
+      description:
+      options:
+        - label: I have read the information on [Translating WAI Documents](https://www.w3.org/WAI/about/translating/)
+          required: true
+        - label: Before starting the translation, I will wait for confirmation that the resource is ready for translation.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        The following field is prefilled and should not be modified. Please click "Submit new issue".
+  - type: input
+    id: github-link
+    attributes:
+      label: Link to original file in GitHub
+      description: Set automatically. Do not modify.
