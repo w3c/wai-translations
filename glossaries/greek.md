@@ -1,4 +1,4 @@
-# Greek Glossary
+# Greek glossary
 
 ## Terms
 
