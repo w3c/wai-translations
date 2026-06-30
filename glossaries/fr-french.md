@@ -1,5 +1,8 @@
 # French Translation Glossary 
 
+> [!NOTE]
+> This glossary is community-maintained by volunteers. To provide feedback, please [open an issue](https://github.com/w3c/wai-translations/issues/new?template=discuss-a-glossary-term.md).
+
 **_Note:_ [Règles pour l’accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
 
 See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/main/general.md)
