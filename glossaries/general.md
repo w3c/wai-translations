@@ -2,17 +2,15 @@
 
 ## W3C WAI
 
-When "W3C" is not with "World Wide Web Consortium", treat "W3C" as a stand-alone name, not an acronym.
-
-Do not write W3C out in the translation if it's written out in the English version.
-
 Treat "W3C", "W3C WAI", and "WAI" as proper names. In most gender-based languages, don't use an article.
 
 Background: [French translation thread](https://github.com/w3c/translation-glossaries/issues/24#issuecomment-826778988).
 
-## Acronyms
+## Abbreviations
 
-For W3C working group names and technical reports, translate the words written out. Leave the acronym in English.
+For W3C working group names and technical reports:
+- Translate the words written out.
+- Leave the abbreviation in English.
 
 Example:
 - _in English:_ Web Content Accessibility Guidelines (WCAG)
@@ -27,7 +25,7 @@ Example:
 
 W3C Members are organizations. Individuals in groups are "participants" in a group, not "members" of a group.
 
-## Capitalization - titles and headings
+## Capitalization
 
 Translations should use the proper capitalization in the target language.
 
