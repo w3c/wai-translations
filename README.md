@@ -21,10 +21,10 @@ See list of [All WAI/Web Accessibility Translations](https://www.w3.org/WAI/tran
 
 ### List of glossaries
 * **[General](https://github.com/w3c/wai-translations/blob/main/glossaries/general.md) - applies to multiple languages**
-* [Bahasa Indonesia (Indonesian)](https://github.com/w3c/wai-translations/blob/main/glossaries/Bahasa%20Indonesia.md)
-* [Deutsch (German)](https://github.com/w3c/wai-translations/blob/main/glossaries/Deutsch-German.md)
-* [Español-castellano (Spanish)](https://github.com/w3c/wai-translations/blob/main/glossaries/Castellano-Spanish.md)
-* [Français (French)](https://github.com/w3c/wai-translations/blob/main/glossaries/fran%C3%A7ais-French.md)
+* [Bahasa Indonesia (Indonesian)](https://github.com/w3c/wai-translations/blob/main/glossaries/id-indonesian.md)
+* [Deutsch (German)](https://github.com/w3c/wai-translations/blob/main/glossaries/de-german.md)
+* [Español-castellano (Spanish)](https://github.com/w3c/wai-translations/blob/main/glossaries/es-spanish.md)
+* [Français (French)](https://github.com/w3c/wai-translations/blob/main/glossaries/fr-french.md)
 
 ---
 
