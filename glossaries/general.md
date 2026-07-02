@@ -1,4 +1,6 @@
-## General Guidance
+# General Guidance
+
+Last updated: 2 July 2026
 
 ## W3C WAI
 
