@@ -1,9 +1,7 @@
-Contents:
-* Capitalization - title and headings
-* "Page Contents" box heading
-* "Summary" box headings
-* You
-<hr>
+# Spanish Translation Glossary
+
+> [!NOTE]
+> This glossary is community-maintained by volunteers. To provide feedback, please [open an issue](https://github.com/w3c/wai-translations/issues/new?template=discuss-a-glossary-term.md).
 
 ## Capitalization - title and headings
 

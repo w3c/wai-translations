@@ -1,5 +1,8 @@
 # Bahasa Indonesia Translation Glossary
 
+> [!NOTE]
+> This glossary is community-maintained by volunteers. To provide feedback, please [open an issue](https://github.com/w3c/wai-translations/issues/new?template=discuss-a-glossary-term.md).
+
 As a rule of thumb:
 
 - we're using the formal form, so "You" should be "Anda"
